@@ -18,14 +18,12 @@ I also had to import the 'text_io' crate so that I could do some basic user inpu
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
 * [Tutorials Point](https://www.tutorialspoint.com/rust/index.htm)
 * [Stack Overflow](https://stackoverflow.com/)
 * [The Rust Language Programming Book](https://doc.rust-lang.org/book/title-page.html)
 
 # Future Work
 
-{Make a list of things that you need to fix, improve, and add in the future.}
 * I need to figure out what the specifics of the input/output code in Rust are. Input is a lot more complicated in Rust than in the other languages typically used for embedded systems, and that can be annoying. It is not very intuitive.
-* I need to add more complex functions that get into the decision making and processing power of the Rust language.
-* Item 3
+* I could to add more complex functions that get into the decision making and processing power of the Rust language.
+* I would like to add functionality for ownership in Rust because I still don't fully understand how that works and I would like to learn
