@@ -6,8 +6,6 @@ I wrote two files of Rust software. One was basically a documentation of basic R
 
 My purpose for writing this software, as mentioned above, was to learn the syntax and conventions of the Rust language and for my own purposes in comparing the Rust language to the C, C#, and C++ languages.
 
-{Provide a link to your YouTube demonstration.  It should be a 4-5 minute demo of the software running and a walkthrough of the code.  Focus should be on sharing what you learned about the language syntax.}
-
 [Software Demo Video](https://www.youtube.com/watch?v=tH5AbSi-YVI)
 
 # Development Environment
