@@ -1,10 +1,10 @@
 # Overview
 
-{Important!  Do not say in this section that this is college assignment.  Talk about what you are trying to accomplish as a software engineer to further your learning.}
+The Rust language has been gaining some attention in the past few years for what it claims to accomplish. Rust is a compiled, low-level language that is supposed to be faster than C/C#/C++ with more safety features for memory management. Having done quite a bit of development in C++ and C# myself, I decided to see what Rust was all about, and I started to learn the language. I wanted to learn the basics of the Rust language and see what the fuss was about and compare what I learned to my experience in C/C#/C++.
 
-{Provide a description the software that you wrote to demonstrate the Rust language.}
+I wrote two files of Rust software. One was basically a documentation of basic Rust syntax and conventions. It was my own documentation of the Rust language. The second file is a basic program that runs showing the usage of variables (constant, mutable, and immutable), expressions, conditionals, loops, functions, and a vector.
 
-{Describe your purpose for writing this software.}
+My purpose for writing this software, as mentioned above, was to learn the syntax and conventions of the Rust language and for my own purposes in comparing the Rust language to the C, C#, and C++ languages.
 
 {Provide a link to your YouTube demonstration.  It should be a 4-5 minute demo of the software running and a walkthrough of the code.  Focus should be on sharing what you learned about the language syntax.}
 
@@ -12,9 +12,9 @@
 
 # Development Environment
 
-{Describe the tools that you used to develop the software}
+For this project, I used Visual Studio Code, which supports Rust and has extensions available for Rust development and execution. I had to download the rust cargo packages and some other Rust specific stuff for it to work on my computer, all of which is available and explained in the Rust book.
 
-{Describe the programming language that you used and any libraries.}
+I also had to import the 'text_io' crate so that I could do some basic user input functionality in my program.
 
 # Useful Websites
 
@@ -26,6 +26,6 @@
 # Future Work
 
 {Make a list of things that you need to fix, improve, and add in the future.}
-* Item 1
-* Item 2
+* I need to figure out what the specifics of the input/output code in Rust are. Input is a lot more complicated in Rust than in the other languages typically used for embedded systems, and that can be annoying. It is not very intuitive.
+* I need to add more complex functions that get into the decision making and processing power of the Rust language.
 * Item 3
